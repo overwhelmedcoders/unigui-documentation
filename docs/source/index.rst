@@ -1,10 +1,9 @@
-Welcome to Lumache's documentation!
+Welcome to UniGui's documentation!
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+**UniGui** is an opinionated UI Toolkit framework for Unity inspired by popular web framework like Angular and Bootstrap
+that helps you quickly build an easy to maintain UI for your game or application.
+It builds on top of existing UIElements to offers a lot of components and templates to quickly build a UI that works on both Desktop and Mobile.
 
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
